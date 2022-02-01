@@ -6,3 +6,7 @@
   text-align: center;
   margin: 20px auto 0px;
 }
+
+h1, h2 {
+  margin: 0px;
+}

@@ -1,3 +1,17 @@
 .footer__column-links {
-  margin-bottom: 16px;
+  margin: 20px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+ul {
+  padding: 0px;
+}
+
+
+li {
+  list-style-type: none;
+  margin: 0px;
+  margin-bottom: 10px;
 }

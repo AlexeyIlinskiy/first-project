@@ -1,0 +1,11 @@
+.section-subtitle_theme_dark {
+  width: 60%;
+  position: relative;
+  line-height: 34px;
+  font-size: 25px;
+  font-weight: normal;
+  text-align: center;
+  color: white;
+  margin: 20px auto 0px;
+  z-index: 2;
+}

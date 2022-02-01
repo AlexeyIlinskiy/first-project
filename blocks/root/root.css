@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+p {
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+  opacity: 1;
+  transition-duration: 1s;
+  transition-timing-function: ease;
+  color: #2f80ed;;
+}
+
+a:hover {
+  opacity:0.5;
+}
